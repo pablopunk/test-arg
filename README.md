@@ -24,7 +24,9 @@ npm install test-arg
 
 ```js
 const testArg = require('test-arg')
-// use as you like
+testArg('hi') // true
+testArg(null) // true
+testArg() // false
 ```
 
 
