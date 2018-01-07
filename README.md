@@ -13,6 +13,9 @@
 </p>
 
 
+> Turns out `undefined == undefined` is true, but `undefined <= undefined` is not.
+
+
 ## Install
 
 ```sh
