@@ -1,7 +1,7 @@
 {
   "name": "test-arg",
   "description": "Return true if arguments are provided",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/test-arg/issues",
