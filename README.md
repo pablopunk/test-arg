@@ -13,7 +13,7 @@
 </p>
 
 
-> Turns out `undefined == undefined` is true, but `undefined <= undefined` is not.
+> [Turns out `undefined == undefined` is true, but `undefined <= undefined` is not.](https://stackoverflow.com/a/48141252/4396912)
 
 
 ## Install
